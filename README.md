@@ -14,10 +14,13 @@ Dados (JSON, CSV)
 
 UI (HTML, GUI Java Applets e Servlets)  
 |
+
 Comunicação(Java RMI) 
 |
+
 Negócio  
 |
+
 Dados (Java JDBC)
 
 
