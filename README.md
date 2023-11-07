@@ -12,10 +12,10 @@ Dados (JSON, CSV)
 
 
 
-UI (HTML, GUI Java Applets e Servlets)
+UI (HTML, GUI Java Applets e Servlets)  
 |
-Comunicação(Java RMI)
-|	
+Comunicação(Java RMI) 
+|
 Negócio  
 |
 Dados (Java JDBC)
