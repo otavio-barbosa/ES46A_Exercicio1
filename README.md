@@ -4,13 +4,21 @@ Arquitetura em Camadas
 
 Neste repositório se encontra um sistema simples de média ponderada.
 
-UI (HTML, GUI Java Applets e Servlets, Java Swing)              
-    |                                           |
-Negócio                                    Comunicação(Java RMI)
-    |                                           |
-Dados (Java JDBC)                          Negócio
-                                                |
-										   Dados (Java JDBC)
+UI (GUI, Java Swing, XML)              
+    |                                           
+Negócio                                    
+    |                                           
+Dados (JSON, CSV)                        
+
+
+
+UI (HTML, GUI Java Applets e Servlets)
+     | 
+Comunicação(Java RMI)
+     |	
+Negócio  
+     |
+Dados (Java JDBC)
 										   
 										   
 Acrescentar uma página inicial com duas navegações (cálculo de médias, exibir lista)
